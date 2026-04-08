@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Shieldplane public docs
+    url: https://shieldplane.com/docs/
+    about: Read product documentation before opening an issue.
+  - name: Security reporting
+    url: mailto:hello@shieldplane.com?subject=%5BShieldplane%20Security%5D
+    about: Report suspected security issues privately.
