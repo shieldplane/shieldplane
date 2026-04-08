@@ -16,6 +16,8 @@ This public repository is the GitHub home for:
 - Documentation hub: https://shieldplane.com/docs/
 - Product overview: https://shieldplane.com/docs/overview.html
 - Installation docs: https://shieldplane.com/docs/installation.html
+- Public release notes: [RELEASES.md](RELEASES.md)
+- Discussions: https://github.com/shieldplane/shieldplane/discussions
 
 ## Use this repository for
 
